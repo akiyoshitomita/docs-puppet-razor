@@ -16,7 +16,6 @@
 ※　予期無く環境を変更する可能性があります。
 
 * [MkDocks 1.0.4](https://pypi.org/project/mkdocs/) (From pip3/ubuntu 18.04)
-* [Bootstrap 1.0.1](https://github.com/mkdocs/mkdocs-bootstrap)
 
 
 ## ドキュメントライセンスについて

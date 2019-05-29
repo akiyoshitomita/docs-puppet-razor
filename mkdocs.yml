@@ -1,0 +1,13 @@
+site_name: Puppet razor ガイド
+repo_url: https://github.com/akiyoshitomita/docs-puppet-razor
+repo_name: GitHub
+site_description: Puppet razorに関する技術情報を記載しています。 
+site_author: Akiyoshi Tomita
+copyright: '&copy; 2019 Akiyoshi Tomita'
+theme:
+  name: readthedocs
+#  lang: jp
+docs_dir: 'docs'
+site_dir: '/var/www/doc-razor/'
+markdown_extensions:
+  - admonition
